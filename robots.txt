@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f8b10d1075.ouyisi.cn/sitemap.xml

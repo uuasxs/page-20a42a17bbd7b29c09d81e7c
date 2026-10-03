@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b3eba29f3151e4964e340194",
+  "owner": "uuasxs",
+  "repo": "page-20a42a17bbd7b29c09d81e7c",
+  "title": "Alvin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "20a42a17bbd7b29c09d81e7c",
+      "a": "Alvin",
+      "b": "",
+      "entity": "Alvin",
+      "brand": "Alvin",
+      "separator": "",
+      "path": "index.html",
+      "hash": "44a843173a63fde472b804737f3981c9194c34403e957a9fa250f2ea74d7e63a",
+      "content": {
+        "keyword1": "Alvin",
+        "keyword2": "",
+        "primary_entity": "Alvin",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Alvin 是专业的高速 VPN 梯子与机场订阅服务平台，提供多端客户端下载、IPLC 专线加速与流媒体解锁。访问 Alvin 官方网站查看套餐、教程与常见问题，立即开启稳定网络加速。",
+          "AI_DESCRIPTION": "Alvin 是专业的高速 VPN 梯子与机场订阅服务平台，提供多端客户端下载、IPLC 专线加速与流媒体解锁。访问 Alvin 官方网站查看套餐、教程与常见问题，立即开启稳定网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.75;color:#2d2a26;background:#fdf8f4}a{color:#c45c3e;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}.wrap{max-width:960px;margin:0 auto;padding:0 16px}header{background:#fffaf7;border-bottom:1px solid #f0e6dc;padding:14px 0}header nav ul{display:flex;flex-wrap:wrap;list-style:none;gap:10px 18px;justify-content:center}header nav a{font-weight:600;font-size:15px}.hero{padding:96px 16px 88px;text-align:center}h1{font-size:3.2rem;color:#c45c3e;letter-spacing:3px;margin-bottom:22px;font-weight:700}.hero .lead{font-size:1.22rem;color:#5a534c;max-width:640px;margin:0 auto 28px}section{padding:36px 0}h2{font-size:1.75rem;color:#3d2e28;margin-bottom:20px;padding-bottom:8px;border-bottom:2px solid #e8a090}h3{font-size:1.2rem;color:#c45c3e;margin:18px 0 10px}p,li{margin-bottom:10px}.plans{display:flex;flex-wrap:wrap;gap:18px;justify-content:center}.plan{flex:1 1 250px;background:#fff;border:1px solid #f0e0d6;border-radius:8px;padding:22px}.plan.featured{border:2px solid #c45c3e;background:#fff8f5}.plan h3{margin-top:0}.price{font-size:1.7rem;color:#c45c3e;font-weight:700}.annual{font-size:0.92rem;color:#6b635c;margin:6px 0 12px}.plan ul{padding-left:18px}#faq{background:#fff5f0;padding:52px 16px;margin:28px 0}details{background:#fff;margin-bottom:12px;border:1px solid #f0e0d6;border-radius:6px}summary{padding:15px 16px;font-weight:650;color:#3d2e28}details p{padding:0 16px 16px;color:#5a534c}.ad{background:#c45c3e;color:#fff;text-align:center;padding:18px 16px;margin:24px 0;border-radius:6px}.ad a{color:#fff;font-weight:700;text-decoration:underline}footer{background:#3d2e28;color:#f6efe9;padding:40px 16px 28px;font-size:0.92rem}footer h3{color:#fff;border:none;margin-bottom:10px}footer a{color:#e8a090}footer ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px;margin-bottom:18px}.note{font-size:0.88rem;color:#cfc4bb;margin-top:12px}@media(max-width:640px){h1{font-size:2.35rem}.hero{padding:64px 16px 52px}header nav a{font-size:14px}}</style><header><div class=\"wrap\"><nav><ul><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><div class=\"hero\"><div class=\"wrap\"><h1>Alvin</h1><p class=\"lead\">Alvin 官方网站提供高速 VPN 梯子、机场订阅与多端客户端下载，用更稳的线路完成网络加速、流媒体解锁和跨境访问。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#download\">官方下载</a> · <a href=\"#faq\">常见问题</a></p></div></div><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><p>Alvin 是面向个人与小团队的网络加速与机场订阅服务。我们把节点质量、订阅兼容性和客户端上手路径放在同一套官网页里说明，减少用户在第三方渠道反复确认信息的成本。</p><p>Alvin 机场采用通用订阅模式，支持主流协议与分流规则。无论你是需要稳定观看海外流媒体、降低国际服游戏延迟，还是进行远程协作与资料检索，都可以按流量与设备数量选择对应套餐。官方身份以本站公示的套餐、教程与下载说明为准，不额外捆绑不明安装包。</p><p>当前线路覆盖亚太与北美主要城市，旗舰节点引入 IPLC/IEPL 专线思路，晚高峰仍以可用带宽为优先目标。基础线路适合日常浏览，旗舰与团队线路更适合连续推流、会议与多设备并发。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 Alvin 官网当前展示的订阅方案，价格按月标注，年付可锁定更低总成本。选择后即可在用户中心获取订阅链接并导入客户端。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容平台</h3><p>旗舰版与团队版强调原生解锁，适合 Netflix、Disney+、YouTube 等高码率播放。基础版覆盖常用站点，适合轻度观看。建议优先选择延迟更低的区域节点，并在客户端开启分流，避免国内流量绕行。</p><h3>游戏与实时对战</h3><p>游戏场景更依赖专线稳定性。Alvin 旗舰版对 IPLC 线路做了延迟与丢包优化，适合英雄联盟、原神、Valorant 等需要持续连接的对局。团队版可把多台主机与手机同时接入同一套高质量节点。</p><h3>远程办公与学习科研</h3><p>访问云文档、代码仓库、学术数据库时，稳定性比极限速度更重要。Alvin 提供可切换的备用节点，会议中途可快速更换线路。学术用户可把文献站点加入直连或代理规则，减少反复开关。</p><h3>多设备家庭与小工作室</h3><p>一台路由器或多部手机同时在线时，请按套餐设备上限规划。团队版面向共用场景，可配合定制路由把办公网段与娱乐网段分开，避免互相抢占带宽。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>订阅开通流程</h3><p>在本页确认套餐后完成支付，系统会立即开通对应流量与设备额度。进入用户中心复制通用订阅地址，该地址可同时用于 Clash、Shadowrocket、Quantumult X、Surge 与 v2rayN 等客户端。</p><h3>导入与连接</h3><p>打开客户端，选择从 URL 更新订阅，粘贴 Alvin 订阅链接并保存。更新节点列表后，按延迟排序或手动指定地区。首次连接建议先测速香港、日本、新加坡三条线路，再固定到最稳的一条。</p><h3>分流与日常维护</h3><p>将国内常用域名设为直连，把流媒体、搜索与海外办公域名走代理。每周在客户端内点击一次更新订阅，即可同步新增节点。流量接近套餐上限时可升级，无需重新安装软件。</p></section><section id=\"download\"><h2>客户端下载与官方入口</h2><p>Alvin 官方下载页不强制安装闭源加速器，而是兼容开源与常用商业客户端。请只从 Alvin 官网获取订阅说明，客户端本体可使用各系统可信渠道。</p><h3>桌面端</h3><p>Windows 推荐 Clash Verge 或 v2rayN；macOS 推荐 ClashX Meta 或 Surge。导入订阅后开启系统代理即可覆盖浏览器与大部分应用。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket 或 Quantumult X；Android 常用 Clash Meta。蜂窝网络下请注意省电与后台刷新，避免订阅过期未更新。</p><h3>节点与性能说明</h3><p>Alvin 目前公示亚太与北美主要出口，香港、东京、新加坡、洛杉矶为高频使用区域。普通节点适合网页与轻量视频；IPLC 节点更适合游戏与会议。实际速度随本地宽带与时段变化，请以客户端实时延迟为准。</p><p><a href=\"#plans\">返回套餐</a> 获取订阅后再进行客户端导入。</p></section></div><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p>以下问题覆盖 Alvin 机场订阅、客户端下载、设备数量与线路体验，建议收藏本页作为官网说明对照。</p><details><summary>Alvin 是 VPN 还是机场订阅？有什么区别？</summary><p>Alvin 以机场订阅方式提供网络加速：你获得的是可导入多款客户端的节点列表，而不是单一封闭 App。这样可以按场景切换协议、分流规则和地区节点，比传统单一 VPN 客户端更灵活。</p></details><details><summary>如何在 Alvin 官网完成客户端下载与订阅导入？</summary><p>先在套餐区开通服务，再进入用户中心复制订阅链接。桌面端使用 Clash 系列或 v2rayN，移动端使用 Shadowrocket 或 Clash Meta，从 URL 更新即可。客户端安装包请走各系统正规来源，订阅只从 Alvin 官方网站获取。</p></details><details><summary>三个套餐分别适合什么人？流量用完怎么办？</summary><p>基础版适合轻度浏览与少量视频；旗舰版适合流媒体、游戏加速和 5 台设备；团队版适合工作室多设备共享。当月流量用尽后可升级套餐或等待次月重置，高峰期仍可使用标准线路，但建议提前预留余量。</p></details><details><summary>Alvin 节点能否解锁流媒体？游戏延迟如何？</summary><p>旗舰版与团队版强调全节点原生解锁，覆盖常见影视与 AI 服务。游戏方面，IPLC 专线用于降低国际服延迟和丢包。实际效果与本地运营商、时段有关，可在客户端中多次测速后固定节点。</p></details><details><summary>支持多少设备同时在线？会不会顶号？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超过额度时可能被限制新连接。家庭共享建议把电视盒子、手机和电脑计入总数，路由器全局代理也占用设备名额。</p></details><details><summary>如何确认自己访问的是 Alvin 官方网站而不是仿站？</summary><p>请核对域名与本页公示的套餐名称、价格和功能描述是否一致。Alvin 不通过陌生聊天软件发送“内部折扣包”。下载说明与订阅获取路径都以官网页面为准，遇可疑链接请停止操作并通过工单核实。</p></details></div></section><div class=\"wrap\"><div class=\"ad\">广告位：Alvin 旗舰版年付可锁定当前单价，适合长期需要梯子网络加速与流媒体解锁的用户。查看 <a href=\"#plans\">套餐方案</a> 或先阅读 <a href=\"#faq\">常见问题</a>。</div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h3>网站地图</h3><ul><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul><h3>友情链接</h3><ul><li><a href=\"#\">Clash 配置说明</a></li><li><a href=\"#\">Shadowrocket 导入指南</a></li><li><a href=\"#\">分流规则示例</a></li><li><a href=\"#\">IPLC 线路科普</a></li><li><a href=\"#\">隐私与使用须知</a></li></ul><p class=\"note\">Alvin 官方网站 · 机场订阅与 VPN 梯子网络加速服务说明页。内容仅供了解套餐、场景与下载步骤，具体开通以用户中心显示为准。</p></div></footer>",
+          "hash": "abb949a9fa18f273e03beb86952c0d251bcc4c7e0285959932f960a578dc55a1",
+          "seo": {
+            "title": "Alvin 官网 - 高速VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "Alvin,Alvin VPN,Alvin机场,Alvin官网,VPN梯子,网络加速器,客户端下载,机场订阅,官方下载,流媒体解锁",
+            "description": "Alvin 是专业的高速 VPN 梯子与机场订阅服务平台，提供多端客户端下载、IPLC 专线加速与流媒体解锁。访问 Alvin 官方网站查看套餐、教程与常见问题，立即开启稳定网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ouyisi.cn",
+    "host": "p-f8b10d1075.ouyisi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ouyisi.cn",
+      "url": "https://ouyisi.cn/",
+      "label": "鱼港(FishPort)",
+      "apex": "ouyisi.cn",
+      "kind": null,
+      "identity": "bjaxeu/page-bddbefef7df0287c82caa3db"
+    },
+    {
+      "host": "20r8jbl.cn",
+      "url": "https://20r8jbl.cn/",
+      "label": "Alvin",
+      "apex": "20r8jbl.cn",
+      "kind": null,
+      "identity": "hfjnqeg/page-9cc5b37474f1e718a81cb9d3"
+    },
+    {
+      "host": "lqwnlfw.cn",
+      "url": "https://lqwnlfw.cn/",
+      "label": "Alvin",
+      "apex": "lqwnlfw.cn",
+      "kind": null,
+      "identity": "ctukukdef/page-f79ac811896388a755a1c045"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a60aa38ca9ad8c37c7a7d44ff4dd01fee4327c7bfb400dea90432e8130c3fef8",
+    "sitemap.xml": "a518234fa9d2c722a01221865b98157a88356d4d055e0d5970b13747f29b1691",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83cf6be37d925b388513b1493d79078f12e8e6ebbf608106aeb7a4805cfd7338",
+    "robots.txt": "fda90afb7a3f92a1b44042a7c0d29eecc23e1433cce32582ec20fce4d8a7e84f",
+    "9cf47e7ac79f8c00a35ce4cbdbe0317e.txt": "d798f7e3b166727d0c983a00690447a214a936aa52967d253fa5d905db4bed43"
+  },
+  "revision": "43b36a037d0c7dcc484d643719a828ed0caa0a6d6d0fec337e333aa06933ddb8"
+}
